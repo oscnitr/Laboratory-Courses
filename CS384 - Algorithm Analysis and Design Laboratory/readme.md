@@ -22,3 +22,5 @@ Spring Semester 2016-17
 * Matrix Chain multiplication
 * Binomial Coefficients
 * Knapsack Problem
+
+### P.S. Screenshots are provided in each sub section for better understanding.
