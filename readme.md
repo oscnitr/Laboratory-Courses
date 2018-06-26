@@ -7,5 +7,5 @@ Please note that, the owners of the repository do not encourage using the code p
 The list of the various laboratories are as follows:
 - [Computer Graphics Laboratory](https://github.com/oscnitr/Laboratory-Courses/tree/master/CS375%20-%20Computer%20Graphics%20Laboratory)
 - [Compiler Design Laboratory](https://github.com/oscnitr/Laboratory-Courses/tree/master/CS481%20-%20Compiler%20Design%20Laboratory)
-- [Operating Systems Laboratory](https://github.com/oscnitr/Laboratory-Courses/tree/master/CS384%20-%20Operating%20Systems%20Laboratory)
+- [Operating Systems Laboratory](https://github.com/oscnitr/Laboratory-Courses/tree/master/CS374%20-%20Operating%20Systems%20Laboratory)
 - [Algorithm Analysis and Design Laboratory](https://github.com/oscnitr/Laboratory-Courses/tree/master/CS384%20-%20Algorithm%20Analysis%20and%20Design%20Laboratory)
